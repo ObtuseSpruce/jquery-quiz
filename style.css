@@ -1,10 +1,48 @@
-html,
+
 body {
   margin: 0;
   padding: 0;
+  text-align: center;
+  background-color: #8483FF;
 }
 
 h1 {
-  color: chartreuse;
+  color: #3D30B3;
   text-align: center;
+  text-shadow: 5px 5px 5px white;
+}
+
+.playingField {
+}
+
+.container {
+  border: 5px solid #3D30B3;
+  box-shadow: 5px 5px 5px #3D30B3;
+  display: inline-block;
+  background-color: #FFE85E;
+  width: 500px;
+  height: 600px;
+}
+#image {
+  display: inline-block;
+  height: 200px;
+  width: 400px; 
+  margin: 15px;
+}
+.boxes {
+  border: 2px solid white;
+  font-size: 30px;
+  color: white;
+  display: inline-block;
+  margin: 10px;
+  width: 200px;
+  height: 100px;
+ background-color: #3D30B3;  
+}
+#question {
+  
+  font-size: 40px;
+  margin: 10px;
+  color: white;
+  background-color: #3D30B3;
 }
