@@ -22,7 +22,7 @@ let questions = [{
     image: "<img src='./img/poptart.jpg' />",
     correctAnswerIndex: 0
   }, {
-    prompt: "How many lbs of potato chips does the average American consume?",
+    prompt: "How many lbs of potato chips does the average American eat in one year?",
     answers: ["2lbs", "8lbs", "4lbs", "6lbs"],
     image: "<img src='./img/chips.jpg' />",
     correctAnswerIndex: 2
